@@ -1,0 +1,25 @@
+{
+	"passphrase": "abcdefgh",
+	"time": "2021-04-15T00:59:12Z",
+	"exchange": "BINANCE",
+	"ticker": "BTCUSDT",
+	"bar": {
+			"time": "2021-04-15T00:59:11Z",
+			"open": 62814.75,
+			"high": 62814.76,
+			"low": 62803.17,
+			"close": 62803.17,
+			"volume": 0.5496030000000001
+	},
+	"strategy": {
+			"position_size": -0.000003,
+			"order_action": "sell",
+			"order_contracts": 0.000006,
+			"order_price": 62803.18,
+			"order_id": "My Short Entry Id",
+			"market_position": "short",
+			"market_position_size": 0.000003,
+			"prev_market_position": "long",
+			"prev_market_position_size": 0.000003
+	}
+}
